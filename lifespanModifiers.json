@@ -97,5 +97,6 @@
 	{ "id": 59, "text": "Shopping as a man", "value": "3h", "minutes": 120, "type": "-" },
 	{ "id": 60, "text": "Shopping as a woman", "value": "3h", "minutes": 120, "type": "+" },
 	{ "id": 61, "text": "HEY.com yearly subscription", "value": "60d", "minutes": 86400, "type": "+" },
-	{ "id": 62, "text": "1000 Twitter followers", "value": "1d", "minutes": 1440, "type": "+" }
+	{ "id": 62, "text": "1000 Twitter followers", "value": "1d", "minutes": 1440, "type": "+" },
+	{ "id": 63, "text": "Xbox One", "value": "60d", "minutes": 86400, "type": "-" }
 ]
