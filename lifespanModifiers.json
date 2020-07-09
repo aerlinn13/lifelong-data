@@ -94,7 +94,6 @@
 	{ "id": 56, "text": "Sexual intercourse", "value": "3d", "minutes": 4320, "type": "+" },
 	{ "id": 57, "text": "Shower", "value": "2h", "minutes": 120, "type": "+" },
 	{ "id": 58, "text": "Joint of weed", "value": "15d", "minutes": 21600, "type": "-" },
-	{ "id": 59, "text": "Shopping as man", "value": "3h", "minutes": 120, "type": "-" },
-	{ "id": 60, "text": "Shopping as woman", "value": "3h", "minutes": 120, "type": "+" },
-	{ "id": 61, "text": "Shopping as man", "value": "3h", "minutes": 120, "type": "-" }
+	{ "id": 59, "text": "Shopping as a man", "value": "3h", "minutes": 120, "type": "-" },
+	{ "id": 60, "text": "Shopping as a woman", "value": "3h", "minutes": 120, "type": "+" }
 ]
