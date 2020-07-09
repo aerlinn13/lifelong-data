@@ -95,5 +95,6 @@
 	{ "id": 57, "text": "Shower", "value": "2h", "minutes": 120, "type": "+" },
 	{ "id": 58, "text": "Joint of weed", "value": "15d", "minutes": 21600, "type": "-" },
 	{ "id": 59, "text": "Shopping as a man", "value": "3h", "minutes": 120, "type": "-" },
-	{ "id": 60, "text": "Shopping as a woman", "value": "3h", "minutes": 120, "type": "+" }
+	{ "id": 60, "text": "Shopping as a woman", "value": "3h", "minutes": 120, "type": "+" },
+	{ "id": 61, "text": "HEY.com yearly subscription", "value": "60d", "minutes": 86400, "type": "+" }
 ]
