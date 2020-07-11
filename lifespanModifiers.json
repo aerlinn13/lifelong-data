@@ -99,5 +99,6 @@
 	{ "id": 61, "text": "HEY.com yearly subscription", "value": "60d", "minutes": 86400, "type": "+" },
 	{ "id": 62, "text": "1000 Twitter followers", "value": "1d", "minutes": 1440, "type": "+" },
 	{ "id": 63, "text": "Xbox One", "value": "60d", "minutes": 86400, "type": "-" },
-	{ "id": 64, "text": "Looking at sunset", "value": "40m", "minutes": 40, "type": "+" }
+	{ "id": 64, "text": "Looking at sunset", "value": "40m", "minutes": 40, "type": "+" },
+	{ "id": 65, "text": "Khabarovsk protest", "value": "4h", "minutes": 360, "type": "+" }
 ]
