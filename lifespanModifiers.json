@@ -101,5 +101,6 @@
 	{ "id": 63, "text": "Xbox One", "value": "60d", "minutes": 86400, "type": "-" },
 	{ "id": 64, "text": "Looking at sunset", "value": "40m", "minutes": 40, "type": "+" },
 	{ "id": 65, "text": "Khabarovsk protest", "value": "4h", "minutes": 360, "type": "+" },
-	{ "id": 66, "text": "White Cliffs of Dover", "value": "4h", "minutes": 360, "type": "+" }
+	{ "id": 66, "text": "White Cliffs of Dover", "value": "4h", "minutes": 360, "type": "+" },
+	{ "id": 67, "text": "Spam phone call", "value": "5m", "minutes": 5, "type": "-" }
 ]
