@@ -102,5 +102,6 @@
 	{ "id": 64, "text": "Looking at sunset", "value": "40m", "minutes": 40, "type": "+" },
 	{ "id": 65, "text": "Khabarovsk protest", "value": "4h", "minutes": 360, "type": "+" },
 	{ "id": 66, "text": "White Cliffs of Dover", "value": "4h", "minutes": 360, "type": "+" },
-	{ "id": 67, "text": "Spam phone call", "value": "5m", "minutes": 5, "type": "-" }
+	{ "id": 67, "text": "Spam phone call", "value": "5m", "minutes": 5, "type": "-" },
+	{ "id": 68, "text": "Ice cream 100g", "value": "30m", "minutes": 30, "type": "-" }
 ]
