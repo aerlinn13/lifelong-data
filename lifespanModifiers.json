@@ -104,5 +104,9 @@
 	{ "id": 66, "text": "White Cliffs of Dover", "value": "4h", "minutes": 360, "type": "+" },
 	{ "id": 67, "text": "Spam phone call", "value": "5m", "minutes": 5, "type": "-" },
 	{ "id": 68, "text": "Ice cream 100g", "value": "30m", "minutes": 30, "type": "-" },
-	{ "id": 69, "text": "Intermittent fasting 24h", "value": "12h", "minutes": 720, "type": "+" }
+	{ "id": 69, "text": "First coffee", "value": "30m", "minutes": 30, "type": "+" },
+	{ "id": 70, "text": "Second coffee", "value": "5m", "minutes": 5, "type": "+" },
+	{ "id": 71, "text": "Third coffee", "value": "1h", "minutes": 60, "type": "-" },
+	{ "id": 72, "text": "Fourth coffee", "value": "5h", "minutes": 300, "type": "-" },
+	{ "id": 73, "text": "Fifth coffee", "value": "12h", "minutes": 720, "type": "-" }
 ]
