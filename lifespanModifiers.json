@@ -109,5 +109,7 @@
 	{ "id": 71, "text": "Third coffee", "value": "1h", "minutes": 60, "type": "-" },
 	{ "id": 72, "text": "Fourth coffee", "value": "5h", "minutes": 300, "type": "-" },
 	{ "id": 73, "text": "Fifth coffee", "value": "12h", "minutes": 720, "type": "-" },
-	{ "id": 74, "text": "Tooth brushing", "value": "1h20m", "minutes": 80, "type": "+" }
+	{ "id": 74, "text": "Tooth brushing", "value": "1h20m", "minutes": 80, "type": "+" },
+	{ "id": 75, "text": "IKEA shopping", "value": "2h30m", "minutes": 150, "type": "+" },
+	{ "id": 76, "text": "Fart", "value": "5m", "minutes": 5, "type": "+" }
 ]
