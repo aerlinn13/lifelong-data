@@ -112,5 +112,6 @@
 	{ "id": 74, "text": "Tooth brushing", "value": "1h20m", "minutes": 80, "type": "+" },
 	{ "id": 75, "text": "IKEA shopping", "value": "2h30m", "minutes": 150, "type": "+" },
 	{ "id": 76, "text": "Fart", "value": "5m", "minutes": 5, "type": "+" },
-	{ "id": 77, "text": "Call with grandma", "value": "45m", "minutes": 45, "type": "+" }
+	{ "id": 77, "text": "Call with grandma", "value": "45m", "minutes": 45, "type": "+" },
+	{ "id": 78, "text": "Constipation", "value": "1d", "minutes": 1440, "type": "-" }
 ]
