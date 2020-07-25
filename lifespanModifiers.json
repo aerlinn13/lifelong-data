@@ -116,5 +116,6 @@
 	{ "id": 78, "text": "Constipation", "value": "1d", "minutes": 1440, "type": "-" },
 	{ "id": 79, "text": "Green apple", "value": "2h", "minutes": 120, "type": "+" },
 	{ "id": 80, "text": "Camamber cheese 100g", "value": "1h", "minutes": 60, "type": "+" },
-	{ "id": 81, "text": "White bread 1 slice", "value": "1h", "minutes": 60, "type": "-" }
+	{ "id": 81, "text": "White bread 1 slice", "value": "1h", "minutes": 60, "type": "-" },
+	{ "id": 82, "text": "Sad day", "value": "1d", "minutes": 1440, "type": "-" }
 ]
