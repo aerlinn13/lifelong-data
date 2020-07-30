@@ -121,5 +121,6 @@
 	{ "id": 83, "text": "Vegan wrap", "value": "2h", "minutes": 120, "type": "+" },
 	{ "id": 84, "text": "Pitted plumes 3pc", "value": "3h", "minutes": 180, "type": "+" },
 	{ "id": 85, "text": "TV Show 1h", "value": "2h", "minutes": 120, "type": "-" },
-	{ "id": 86, "text": "Greek salad 200g", "value": "4h", "minutes": 240, "type": "+" }
+	{ "id": 86, "text": "Greek salad 200g", "value": "4h", "minutes": 240, "type": "+" },
+	{ "id": 87, "text": "Buckwheat 150g", "value": "3h", "minutes": 180, "type": "+" }
 ]
