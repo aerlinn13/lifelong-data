@@ -125,5 +125,6 @@
 	{ "id": 87, "text": "Buckwheat 150g", "value": "3h", "minutes": 180, "type": "+" },
 	{ "id": 88, "text": "Celery 100g", "value": "2h", "minutes": 120, "type": "+" },
 	{ "id": 89, "text": "Netflix: The Story of Fire Saga", "value": "5h", "minutes": 300, "type": "+" },
-	{ "id": 90, "text": "Chicken curry 100g", "value": "3h20m", "minutes": 200, "type": "+" }
+	{ "id": 90, "text": "Chicken curry 100g", "value": "3h20m", "minutes": 200, "type": "+" },
+	{ "id": 91, "text": "Tofu 100g", "value": "1h20m", "minutes": 80, "type": "+" }
 ]
