@@ -128,5 +128,6 @@
 	{ "id": 90, "text": "Chicken curry 100g", "value": "3h20m", "minutes": 200, "type": "+" },
 	{ "id": 91, "text": "Tofu 100g", "value": "1h20m", "minutes": 80, "type": "+" },
 	{ "id": 92, "text": "Enterosgel", "value": "3h", "minutes": 180, "type": "+" },
-	{ "id": 93, "text": "Barn cereal", "value": "1h", "minutes": 60, "type": "+" }
+	{ "id": 93, "text": "Barn cereal", "value": "1h", "minutes": 60, "type": "+" },
+	{ "id": 94, "text": "Ginger tea", "value": "20m", "minutes": 20, "type": "+" }
 ]
