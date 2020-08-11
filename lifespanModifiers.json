@@ -131,5 +131,6 @@
 	{ "id": 93, "text": "Barn cereal", "value": "1h", "minutes": 60, "type": "+" },
 	{ "id": 94, "text": "Ginger tea", "value": "20m", "minutes": 20, "type": "+" },
 	{ "id": 95, "text": "Dentist appointment", "value": "10d", "minutes": 14400, "type": "+" },
-	{ "id": 96, "text": "GP Health check", "value": "30d", "minutes": 43200, "type": "+" }
+	{ "id": 96, "text": "GP Health check", "value": "30d", "minutes": 43200, "type": "+" },
+	{ "id": 97, "text": "Mineral water 200ml", "value": "20m", "minutes": 20, "type": "+" }
 ]
