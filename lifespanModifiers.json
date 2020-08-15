@@ -134,5 +134,6 @@
 	{ "id": 96, "text": "GP Health check", "value": "30d", "minutes": 43200, "type": "+" },
 	{ "id": 97, "text": "Mineral water 200ml", "value": "20m", "minutes": 20, "type": "+" },
 	{ "id": 98, "text": "Granola 100g", "value": "30m", "minutes": 30, "type": "+" },
-	{ "id": 99, "text": "Too much food", "value": "12h", "minutes": 720, "type": "-" }
+	{ "id": 99, "text": "Too much food", "value": "12h", "minutes": 720, "type": "-" },
+	{ "id": 100, "text": "Pasta 200g", "value": "15h", "minutes": 900, "type": "-" }
 ]
