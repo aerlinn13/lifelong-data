@@ -136,5 +136,6 @@
 	{ "id": 98, "text": "Granola 100g", "value": "30m", "minutes": 30, "type": "+" },
 	{ "id": 99, "text": "Too much food", "value": "12h", "minutes": 720, "type": "-" },
 	{ "id": 100, "text": "Pasta 200g", "value": "15h", "minutes": 900, "type": "-" },
-	{ "id": 101, "text": "Coronavirus", "value": "150d", "minutes": 216000, "type": "-" }
+	{ "id": 101, "text": "Coronavirus", "value": "150d", "minutes": 216000, "type": "-" },
+	{ "id": 102, "text": "Coca Cola 200ml", "value": "2h", "minutes": 120, "type": "-" }
 ]
